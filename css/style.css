@@ -1,0 +1,15 @@
+/* all */
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.btn{
+  background-color: blue;
+  border-radius: 0rem;
+}
+.btn:hover {
+  background-color: green;
+  cursor: auto;
+}
